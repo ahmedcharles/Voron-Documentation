@@ -18,12 +18,12 @@ While using different slicers for different kinds of prints can be beneficial av
 There are two slicers that come with built-in profiles for most Voron printers:
 
 * Cura
+* OrcaSlicer
 * SuperSlicer
 
 Other slicers that can be configured to support Voron printers but do not have built-in support:
 
 * PrusaSlicer
-* OrcaSlicer
 * Simplify3D
 * Slic3r
 
